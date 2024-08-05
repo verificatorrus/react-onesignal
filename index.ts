@@ -1,5 +1,5 @@
 const ONESIGNAL_SDK_ID = 'onesignal-sdk';
-const ONE_SIGNAL_SCRIPT_SRC = "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js";
+const ONE_SIGNAL_SCRIPT_SRC = "https://cfwosp.edres.com/sdks/web/v16/OneSignalSDK.page.js";
 
 // true if the script is successfully loaded from CDN.
 let isOneSignalInitialized = false;
